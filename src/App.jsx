@@ -26,6 +26,7 @@ function Home() {
   );
 }
 
+//Used the browser router to access the pages easily from one link to another
 function App() {
   return (
     <BrowserRouter>
